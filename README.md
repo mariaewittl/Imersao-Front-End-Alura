@@ -5,7 +5,7 @@ Página inicial do Spotify desenvolvida durante a Imersão Front-End 2025 da Alu
 
 ## 📑 Descrição do projeto
 
-O objetivo do projeto fui reproduzir a página inicial do site Spotify e testar personalizações possíveis para ganhar noções práticas de desenvolvimento front-end.
+O objetivo do projeto foi reproduzir a página inicial do site Spotify e testar personalizações possíveis para ganhar noções práticas de desenvolvimento front-end.
 
 ## 🖱️ Funcionalidades
 
